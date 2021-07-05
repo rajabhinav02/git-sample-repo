@@ -1,0 +1,4 @@
+git status -
+git init - jkolj
+kljk - lojkjhhfgfhj-klj changes
+check -uset
